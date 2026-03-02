@@ -33,14 +33,14 @@ is reconstructed via inverse FFT.
 - More coming soon
 
 ## Planned Features
-# SOON
+SOON
 - Change the Lowpass and Highpass to resemble that of a classic MG filter that is seen in software
 - Prompt the user rather than having them change the code manually
 
-#LATER
+LATER
 - Comb filter
 - Ring modulation
 - Real-time visualization with sliders
 - Reverb and delay
-
 - Any filter that I can think of
+
