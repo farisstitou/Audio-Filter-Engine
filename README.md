@@ -14,7 +14,7 @@ pip install numpy scipy matplotlib soundfile
 
 ## Usage
 python main.py
-# For now, just change the values in the CHANGE THESE section of main.py. Later on 
+For now, just change the values in the CHANGE THESE section of main.py. Later on 
 I will add a prompt for the user to input their cutoff frequency, file of choice, and
 what filter they want to use.
 
@@ -42,4 +42,5 @@ is reconstructed via inverse FFT.
 - Ring modulation
 - Real-time visualization with sliders
 - Reverb and delay
+
 - Any filter that I can think of
